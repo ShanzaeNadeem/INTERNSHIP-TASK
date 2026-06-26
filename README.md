@@ -1,5 +1,5 @@
 # INTERNSHIP-TASK
-#Term Deposit Subscription Prediction
+# Term Deposit Subscription Prediction
 
 A machine learning project that predicts whether a customer will subscribe to a bank term deposit using the UCI Bank Marketing dataset.
 
